@@ -9,3 +9,6 @@
 ## Fish files
 !/.config/fish
 
+## Tmux files
+!/.tmux.conf
+!/.config/tmux
