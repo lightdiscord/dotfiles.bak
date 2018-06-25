@@ -5,3 +5,7 @@
 # Config folder
 !/.config
 /.config/*
+
+## Fish files
+!/.config/fish
+
