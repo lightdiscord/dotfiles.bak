@@ -1,0 +1,7 @@
+# Root
+/*
+!.gitignore
+
+# Config folder
+!/.config
+/.config/*
