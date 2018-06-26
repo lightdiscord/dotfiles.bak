@@ -12,3 +12,6 @@
 ## Tmux files
 !/.tmux.conf
 !/.config/tmux
+
+## Neovim files
+!/.config/nvim
